@@ -6,4 +6,4 @@ Much of my work is with Ignition SCADA by Inductive Automation. This uses Python
 
 In addition to that, I do data engineering, analysis, and create custom software to support the manufacturing processes.
 
-![A view of a SCADA Dashboard](https://github.com/HelloMorrisMoss/diagrams_and_images/blob/1f0bc073be2f84328438a549169ed380ec133839/dashboards_and_hmi/NH_OEE_01.png)
+![A view of a SCADA Dashboard](https://github.com/HelloMorrisMoss/diagrams_and_images/blob/main/dashboards_and_hmi/Supervisors%20dashboard.png)
