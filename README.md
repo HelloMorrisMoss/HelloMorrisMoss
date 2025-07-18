@@ -7,3 +7,5 @@ I oversee the manufacturing process data collection, storage, access, analyses, 
 Much of my work is with Ignition SCADA by Inductive Automation. This uses Python in a Java interpreter (Jython) for scripting.
 
 ![A view of a SCADA Dashboard](https://github.com/HelloMorrisMoss/diagrams_and_images/blob/main/dashboards_and_hmi/Supervisors%20dashboard.png)
+
+Otherwise I mostly write programs in Python, support the electrical engineering in the plant, and handle database development and maintenance.
